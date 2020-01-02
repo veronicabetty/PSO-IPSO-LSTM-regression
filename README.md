@@ -1,5 +1,5 @@
 # PSO-IPSO-LSTM-regression
-python code，this project use pso and ipso to optim lstm's hyperparams, include learning rate,hidden-nodes and training epoch number. and finally use ipso-lstm for power load forcast.
+python code，this project use pso and ipso to optim lstm's hyperparams, include learning rate,hidden-nodes and training epoch number. and finally use ipso-lstm for power load forcast.contact me 392503054@qq.com for this code
 
 
 
